@@ -1,0 +1,11 @@
+{
+    "name": "attrest",
+    "version": "1.0.2",
+    "description": "a auto restful-api client for vue.js/angular/react/jquery",
+    "main": "AttLoader.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "author": "shayuxiang",
+    "license": "ISC"
+}
